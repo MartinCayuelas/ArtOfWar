@@ -1,2 +1,4 @@
 # ArtOfWar
-Projet Algorithmique en Python S5
+Projet Algorithmique S5
+
+Le projet est réalisé en Python
